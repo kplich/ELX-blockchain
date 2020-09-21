@@ -1,0 +1,9 @@
+pragma solidity ^0.7.0;
+
+import "./AbstractEscrow.sol";
+
+contract DoubleAdvance is AbstractEscrow {
+    constructor() {
+
+    }
+}
